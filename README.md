@@ -1,4 +1,4 @@
-## Oiii, me chamo Matheus Fernandes.
+## Olá, me chamo Matheus Fernandes.
  <div>
   <a href="https://github.com/yosoymath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosoymath&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
