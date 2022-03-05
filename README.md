@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/yosoymath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosoymath&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoymath&layout=&langs_count=7&theme=apprentice"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoymath&langs_count=7&theme=apprentice"/>
 </div>
   
   <div style="display: inline_block"><br>
